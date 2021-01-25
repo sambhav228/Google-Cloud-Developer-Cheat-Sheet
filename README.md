@@ -23,10 +23,6 @@ Dark background:
 
 Desktop Wallpapers: [16:9 (iMac, etc.)](Wallpaper-16-9.png) | [16:10 (Macbook Pro)](Wallpaper-16-10.png) | [4:3 (Older computers)](Wallpaper-4-3.png) | [3:2 (Pixelbook)](Wallpaper-3-2.png)
 
-Text descriptions with links are below
-
-Suggestions for better descriptions? Missing products? Pull requests are welcome on README.md (this file).
-
 
 **Note:** This list only includes products that are publicly available. There are several products in pre-release/private-alpha that will not be included until they go public beta or GA.
 
